@@ -48,3 +48,7 @@ This results in a total of 36 combinations, which is the total number of outcome
 
 <img width="569" alt="Sum of 2 Dices" src="https://github.com/andrewchan868/Coupon-Collector/assets/66477660/fe0b7b26-aff2-490b-91d2-d839781dc58b">
 <img width="543" alt="Sum Dis" src="https://github.com/andrewchan868/Coupon-Collector/assets/66477660/c5637f37-85da-461a-ae7b-750ac1fbd4ca">
+
+The expected number of throws to see all sums from 2 to 12 of two dice is around 61 due to the nature of the problem, which is a variation of the Coupon Collector's problem. The Coupon Collector's problem asks how many tries you would expect to need in order to collect all of a given set of items, assuming that each try gives you one random item from the set.
+
+In our case, the "items" are the possible sums of two dice (from 2 to 12). However, unlike the classic Coupon Collector's problem where each item is equally likely, in our problem different sums have different probabilities. Sums in the middle of the range (like 7) are more likely than sums at the ends of the range (like 2 or 12). This disparity in probabilities makes the expected number of throws higher than it would be if all sums were equally likely.
