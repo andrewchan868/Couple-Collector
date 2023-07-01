@@ -12,3 +12,6 @@ Monte Carlo for n is 50:
 
 Monte Carlo and Harmonic Series:
 <img width="501" alt="Monte Carlo and Harmonic Series" src="https://github.com/andrewchan868/Couple-Collector/assets/66477660/f1971dbe-c9d4-47d5-b269-5a987190f7db">
+
+# 6 Faces of Dices
+<img width="1297" alt="6 Faces of Dices" src="https://github.com/andrewchan868/Coupon-Collector/assets/66477660/6061d632-636e-49e0-9560-fa7b3a145468">
