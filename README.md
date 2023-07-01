@@ -20,6 +20,7 @@ Monte Carlo and Harmonic Series:
 # Sum of 2 Dices
 
 <sub>
+ 
 > Sum of 2: 1 combination (1,1)
  
 > Sum of 3: 2 combinations (1,2), (2,1)
