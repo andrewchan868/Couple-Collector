@@ -21,15 +21,25 @@ Monte Carlo and Harmonic Series:
 
 <sub>
 > Sum of 2: 1 combination (1,1)
+ 
 > Sum of 3: 2 combinations (1,2), (2,1)
+> 
 > Sum of 4: 3 combinations (1,3), (2,2), (3,1)
+> 
 > Sum of 5: 4 combinations (1,4), (2,3), (3,2), (4,1)
+> 
 > Sum of 6: 5 combinations (1,5), (2,4), (3,3), (4,2), (5,1)
+> 
 > Sum of 7: 6 combinations (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)
+> 
 > Sum of 8: 5 combinations (2,6), (3,5), (4,4), (5,3), (6,2)
+> 
 > Sum of 9: 4 combinations (3,6), (4,5), (5,4), (6,3)
+> 
 > Sum of 10: 3 combinations (4,6), (5,5), (6,4)
+> 
 > Sum of 11: 2 combinations (5,6), (6,5)
+> 
 > Sum of 12: 1 combination (6,6)
  </sub>
 
