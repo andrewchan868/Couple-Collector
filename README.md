@@ -1,4 +1,4 @@
-# Couple-Collector
+# Coupon-Collector
 Harmonic Series
 (ln(n) + 0.577) * n
 
